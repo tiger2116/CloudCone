@@ -3,6 +3,8 @@
 ## CloudCone 介绍
 CloudCone是一家提供云服务器和云托管解决方案的全球公司，提供从共享主机到独立服务器的各种虚拟服务器产品，并在多个数据中心提供服务。CloudCone致力于提供可扩展、可靠且价格合理的云解决方案，满足不同客户的需求。
 
+![image](https://github.com/tiger2116/CloudCone/assets/157263367/52296a9f-945d-4081-9f98-b528a7076bfa)
+
 ## CloudCone 官网地址
 - [www.cloudcone.com](https://app.cloudcone.com/?ref=11301)
 
